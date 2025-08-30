@@ -21,6 +21,7 @@ search.clear()
 search.send_keys('Apartment')
 
 # wait for 4 sec
+
 sleep(4)
 
 # click search button
