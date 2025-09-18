@@ -33,5 +33,5 @@ print("Verified: 'Sign in or create account' text is displayed on the page.")
 driver.find_element(By.XPATH, '//*[contains(text(), "Continue")]')
 print("Verified: 'Sign in (Continue)' text is displayed on the page.")
 
-# Close the browser after verificaiton
+# Close the browser after verification
 driver.quit()

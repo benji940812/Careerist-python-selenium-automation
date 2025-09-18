@@ -26,7 +26,7 @@ sleep(5)
 
 ####### Amazon Sign-In page - locator verification test#########
 
-Amazon logo - by class a-icon-logo
+# Amazon logo - by class a-icon-logo
 driver.find_element(By.XPATH, '//i[contains(@class,"a-icon-logo")]')
 
 Email field - by id ap_email
